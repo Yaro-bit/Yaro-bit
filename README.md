@@ -29,4 +29,4 @@ I'm passionate about learning and growing in the field of development.
 ## 🌍 What I’m working on:
 - Exploring various **software development** tools and technologies
 - Learning from **open-source projects** and tools 
-- Working on **improving IT support systems** within my current role
+- Working in and on** IT support systems** within my current role
