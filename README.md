@@ -17,8 +17,8 @@ I'm passionate about learning and growing in the field of development.
 - **Linux** – Always looking to contribute and learn from the community!
 
 ## 🛠️ Technologies & Tools I use:
-- **Languages:** Java, C, SQL
-- **Tools & Platforms:** Docker, JBoss/Wildfly, Git, Jenkins, Postman, Spring
+- **Languages:** Java, SQL
+- **Tools & Platforms:** Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI, Spring
 - **Operating Systems:** Linux, Windows
 
 ## 📫 How to reach me:
