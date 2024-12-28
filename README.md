@@ -2,8 +2,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro-bit&layout=compact&theme=radical)
 
 ## 👀 I’m interested in:
-- Software development
-- Problem-solving
+- Software development, Linux distro's
+- Problem-solving, learning
 - Building meaningful tools
 
 ![Yaro-bit Banner](https://github.com/Yaro-bit/Yaro-bit/blob/main/gpt.jpg)
@@ -22,7 +22,6 @@ I'm passionate about learning and growing in the field of development.
 - **Operating Systems:** Linux, Windows
 
 ## 📫 How to reach me:
-
 - Email: [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)
 - LinkedIn: [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
 
