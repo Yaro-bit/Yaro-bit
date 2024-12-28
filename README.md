@@ -6,7 +6,7 @@
 - Problem-solving
 - Building meaningful tools
 
-[Yaro-bit Banner]([[https://github.com/Yaro-bit/Yaro-bit/blob/main/gpt.jpg](https://raw.githubusercontent.com/Yaro-bit/Yaro-bit/refs/heads/main/gpt.jpg)]) 
+![Yaro-bit Banner](https://github.com/Yaro-bit/Yaro-bit/blob/main/gpt.jpg)
 
 ## 🌱 Currently:
 I'm working at a telecom company as a second/third-level support specialist while training to become a software developer. 
