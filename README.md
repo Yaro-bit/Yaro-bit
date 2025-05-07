@@ -3,7 +3,6 @@ Hi, I’m Yaro
 I’m interested in:
 - Software development, Linux distro's
 - Problem-solving, learning
-- Building meaningful tools
 
 Currently:
 - I'm working at a telecom company as a technical support specialist while training to become a software developer. 
