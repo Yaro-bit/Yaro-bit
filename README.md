@@ -1,7 +1,7 @@
 Hi, I’m Yaro
 
 I’m interested in:
-- Software development, Linux distro's
+- Software development in Java
 - Problem-solving, learning
 
 Currently:
