@@ -1,7 +1,5 @@
 Hi, I’m Yaro
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&layout=compact&theme=dark)
-
 I’m interested in:
 - Software development, Linux distro's
 - Problem-solving, learning
@@ -10,6 +8,8 @@ I’m interested in:
 Currently:
 - I'm working at a telecom company as a technical support specialist while training to become a software developer. 
 - I'm passionate about learning and growing in the field of development.
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&layout=compact&theme=dark)
 
 Technologies & Tools I use:
 - Languages: Java, SQL
@@ -19,3 +19,4 @@ Technologies & Tools I use:
 How to reach me:
 - Email: [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)
 - LinkedIn: [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
+
