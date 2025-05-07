@@ -16,6 +16,6 @@ Technologies & Tools I use:
 - Operating Systems: Linux, Windows
 
 How to reach me:
-- Email: [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)
-- LinkedIn: [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
+- Email:      [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)
+- LinkedIn:   [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
 
