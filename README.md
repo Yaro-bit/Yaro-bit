@@ -7,16 +7,14 @@ I’m interested in:
 - Problem-solving, learning
 - Building meaningful tools
 
-![Yaro-bit Banner](https://github.com/Yaro-bit/Yaro-bit/blob/main/gpt.jpg)
-
 Currently:
-I'm working at a telecom company as a technical support specialist while training to become a software developer. 
-I'm passionate about learning and growing in the field of development.
+- I'm working at a telecom company as a technical support specialist while training to become a software developer. 
+- I'm passionate about learning and growing in the field of development.
 
 Technologies & Tools I use:
-Languages: Java, SQL
-Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI, Spring
-Operating Systems: Linux, Windows
+- Languages: Java, SQL
+- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI, Spring
+- Operating Systems: Linux, Windows
 
 How to reach me:
 - Email: [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)
