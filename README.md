@@ -8,7 +8,7 @@ I’m interested in:
 Currently:
 - I'm working at a telecom company as a technical support specialist while training to become a software developer. 
 - I'm passionate about learning and growing in the field of development.
-- 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&layout=compact&theme=dark)
 
 Technologies & Tools I use:
