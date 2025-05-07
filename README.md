@@ -12,7 +12,7 @@ Currently:
 
 Technologies & Tools I use:
 - Languages: Java, SQL, Spring
-- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI
+- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Postman/SoapUI
 - Operating Systems: Linux, Windows
 
 How to reach me:
