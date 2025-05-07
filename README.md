@@ -11,8 +11,8 @@ Currently:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&layout=compact&theme=dark)
 
 Technologies & Tools I use:
-- Languages: Java, SQL
-- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI, Spring
+- Languages: Java, SQL, Spring
+- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Git, Jenkins, Postman/SoapUI
 - Operating Systems: Linux, Windows
 
 How to reach me:
