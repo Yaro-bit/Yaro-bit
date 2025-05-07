@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Yaro-bit
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaro-bit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&layout=compact&theme=dark)
 
 ## 👀 I’m interested in:
 - Software development, Linux distro's
