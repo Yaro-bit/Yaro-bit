@@ -1,19 +1,20 @@
 Hi, I’m Yaro
 
-
-
 I’m interested in:
-- Software development in Java
-- Problem-solving, learning
+
+    Software development with Java
+    Problem-solving and continuous learning
 
 Currently:
-- I'm working at a telecom company as a technical support specialist while training to become a software developer. 
-- I'm passionate about learning and growing in the field of development.
+
+    I work at a telecom company as a technical support specialist, and I’m training to become a software developer.
+    I’m passionate about learning and growing in the development field.
 
 Technologies & Tools I use:
-- Languages: Java, SQL, Spring
-- Tools & Platforms: Docker/Podman, OKD/Openshift, JBoss/Wildfly, Postman/SoapUI
-- Operating Systems: Linux, Windows
+
+    Languages: Java, SQL, Spring
+    Tools & Platforms: Docker/Podman, OKD/OpenShift, JBoss/Wildfly, Postman/SoapUI
+    Operating Systems: Linux, Windows
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)
 
