@@ -15,7 +15,7 @@ Technologies & Tools I use:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)
 
-How to reach me:
+You can reach me in Deutsch, English, або Українською:
 - **Email:** [yvo_gmx@proton.me](mailto:yvo_gmx@proton.me)  
 - **LinkedIn:** [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
 
