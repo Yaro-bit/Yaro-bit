@@ -1,6 +1,6 @@
 ## About Me
-
-I’m a Ukrainian who swapped logistics and tech support for the wild world of software development in Austria. I like my code how I like my coffee: efficient, easy to maintain, and ideally not causing chaos at 2 AM. I rely on structure, honest work, and the occasional help from AI when Stack Overflow runs dry.
+Hi, I’m Yaro.
+I swapped logistics and tech support for the wild world of software development in Austria. I like my code how I like my coffee: efficient, easy to maintain, and ideally not causing chaos at 2 AM. I rely on structure, honest work, and the occasional help from AI when Stack Overflow runs dry.
 
 ### I’m interested in
 - Software development with Java  
