@@ -22,28 +22,22 @@ It’s where creativity meets problem-solving.
 ![SoapUI](https://img.shields.io/badge/SoapUI-%2380C342.svg?logo=smartbear&logoColor=white)  
 
 ---
-
+## Currently
+- Working at a telecom company as a **technical support specialist**  
+- Always exploring new ways to improve my skills in development  
+---
 ## Interests
 - Software development with **Java**  
 - Problem-solving & continuous learning
 - Open Source
 - Games 
-
 ---
-
-## Currently
-- Working at a telecom company as a **technical support specialist**  
-- Always exploring new ways to improve my skills in development  
-
----
-
 ## Learning Goals
 - Java
 - LPIC  
 - TypeScript  
 - Python  
 - Personal projects  
-
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
