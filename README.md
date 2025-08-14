@@ -1,6 +1,6 @@
 ## About Me
 Hi, I’m Yaro.
-I swapped logistics and tech support for the wild world of software development in Austria. I rely on structure, honest work, and the occasional help from AI when Stack Overflow runs dry.Also, I’m pretty good at vibe-coding — writing code in flow, without overthinking — and no, it’s not embarrassing. It’s how creativity meets problem-solving.
+I swapped logistics and tech support for the wild world of software development in Austria. I rely on structure, honest work, and the occasional help from AI when Stack Overflow runs dry. Also, I’m pretty good at vibe-coding — writing code in flow, without overthinking — and no, it’s not embarrassing. It’s how creativity meets problem-solving.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -10,7 +10,6 @@ I swapped logistics and tech support for the wild world of software development 
 
 ### Currently
 - Working at a telecom company as a technical support specialist  
-- Training to become a software developer  
 - Always on the lookout for better ways to learn and grow in the development field
 
 ### Technologies & Tools I use
