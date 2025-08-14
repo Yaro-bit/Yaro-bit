@@ -1,27 +1,61 @@
-## About Me
-Hi, I’m Yaro.
-I swapped logistics and tech support for the wild world of software development in Austria. I rely on structure, honest work, and the occasional help from AI when Stack Overflow runs dry. Also, I’m pretty good at vibe-coding — writing code in flow, without overthinking — and no, it’s not embarrassing. It’s how creativity meets problem-solving.
+# Hi there, I’m Yaro 👋
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### I’m interested in
-- Software development with Java  
-- Problem-solving and continuous learning
+I swapped **logistics** for the wild world of **software development** in Austria.  
+I rely on structure, honest work, and the powerusing of AI when Stack Overflow runs dry.  
 
-### Currently
-- Working at a telecom company as a technical support specialist  
-- Always on the lookout for better ways to learn and grow in the development field
-
-### Technologies & Tools I use
-- **Languages:** Java, SQL, Spring
-- **AI:** Claude, GPT5
-- **Tools & Platforms:** Docker/Podman, OKD/OpenShift, JBoss/Wildfly, Postman/SoapUI  
-- **Operating Systems:** Linux, Windows
+I’m also pretty good at **vibe-coding** — writing code in flow, without overthinking — and no, it’s not embarrassing.  
+It’s where creativity meets problem-solving.
 
 ---
 
-You can reach me in Deutsch, English, або Українською:  
-- **Email:** [yvo_gmx@proton.me](mailto:volyar@proton.me)  
-- **LinkedIn:** [Yaroslav V.](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
+## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-%23892CA0.svg?logo=podman&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?logo=redhatopenshift&logoColor=white)
+![WildFly](https://img.shields.io/badge/WildFly-%232E2E2E.svg?logo=wildfly&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-%2380C342.svg?logo=smartbear&logoColor=white)  
+
+---
+
+## 📌 Interests
+- Software development with **Java**  
+- Problem-solving & continuous learning  
+
+---
+
+## 📍 Currently
+- Working at a telecom company as a **technical support specialist**  
+- Always exploring new ways to improve my skills in development  
+
+---
+
+## 🚀 Learning Goals
+- Java
+- LPIC  
+- TypeScript  
+- Python  
+- Personal projects  
+
+---
+
+## 📫 Contact Me
+You can reach me in **Deutsch**, **English**, або **Українською**:  
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green?logo=protonmail)](mailto:volyar@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaroslav%20V.-blue?logo=linkedin)](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)
