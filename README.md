@@ -51,8 +51,3 @@ You can reach me in **Deutsch**, **English**, або **Українською**:
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green?logo=protonmail)](mailto:volyar@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaroslav%20V.-blue?logo=linkedin)](https://www.linkedin.com/in/yaroslav-v-b7876a211/)
-
----
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)
