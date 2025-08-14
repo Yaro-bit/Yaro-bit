@@ -1,4 +1,4 @@
-# Hi there, I’m Yaro 👋
+# Hi there, I’m Yaro
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -10,7 +10,7 @@ It’s where creativity meets problem-solving.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?logo=postgresql&logoColor=white)
@@ -28,19 +28,19 @@ It’s where creativity meets problem-solving.
 
 ---
 
-## 📌 Interests
+## Interests
 - Software development with **Java**  
 - Problem-solving & continuous learning  
 
 ---
 
-## 📍 Currently
+## Currently
 - Working at a telecom company as a **technical support specialist**  
 - Always exploring new ways to improve my skills in development  
 
 ---
 
-## 🚀 Learning Goals
+## Learning Goals
 - Java
 - LPIC  
 - TypeScript  
@@ -49,7 +49,7 @@ It’s where creativity meets problem-solving.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 You can reach me in **Deutsch**, **English**, або **Українською**:  
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green?logo=protonmail)](mailto:volyar@proton.me)
@@ -57,5 +57,5 @@ You can reach me in **Deutsch**, **English**, або **Українською**:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaro-bit&hide=html,css,shader,md&layout=compact&theme=dark)
