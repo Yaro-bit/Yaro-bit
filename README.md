@@ -1,7 +1,5 @@
 # Hi there, I’m Yaro
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 I swapped **logistics** for the wild world of **software development** in Austria.  
 I rely on structure, honest work, and the powerusing of AI when Stack Overflow runs dry.  
 
@@ -48,6 +46,8 @@ It’s where creativity meets problem-solving.
 - Personal projects  
 
 ---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Contact Me
 You can reach me in **Deutsch**, **English**, або **Українською**:  
