@@ -25,7 +25,9 @@ It’s where creativity meets problem-solving.
 
 ## Interests
 - Software development with **Java**  
-- Problem-solving & continuous learning  
+- Problem-solving & continuous learning
+- Open Source
+- Games 
 
 ---
 
