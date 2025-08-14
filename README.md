@@ -12,11 +12,7 @@ I rely on structure, honest work, and the powerusing of AI when Stack Overflow r
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-%23892CA0.svg?logo=podman&logoColor=white)
-![WildFly](https://img.shields.io/badge/WildFly-%232E2E2E.svg?logo=wildfly&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-%2380C342.svg?logo=smartbear&logoColor=white)  
 
 ---
 ## Currently
