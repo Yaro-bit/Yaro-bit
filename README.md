@@ -3,9 +3,6 @@
 I swapped **logistics** for the wild world of **software development** in Austria.  
 I rely on structure, honest work, and the powerusing of AI when Stack Overflow runs dry.  
 
-I’m also pretty good at **vibe-coding** — writing code in flow, without overthinking — and no, it’s not embarrassing.  
-It’s where creativity meets problem-solving.
-
 ---
 
 ## Tech Stack
